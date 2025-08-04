@@ -1,5 +1,5 @@
 """
-Script Name : test_binary_search.py
+Script Name : test_find_max.py
 Description : Set of tests for Find maximum algorithm
 Author      : @tonybnya
 """
