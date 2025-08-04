@@ -490,7 +490,7 @@
 - [x] Implement linear search algorithm
 - [x] Implement binary search algorithm
 - [x] Find maximum element in an array
-- [ ] Reverse an array in-place
+- [x] Reverse an array in-place
 - [ ] Check if array is sorted
 - [ ] Find missing number in array (1 to n)
 - [ ] Two sum problem (find pair with given sum)
