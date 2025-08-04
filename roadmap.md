@@ -1,0 +1,1127 @@
+# Skill Development Roadmap
+
+## Vanilla CSS
+
+### EASY Tasks
+
+- [x] Create a responsive navigation bar with hover effects
+- [x] Build a card component with shadow and border radius
+- [ ] Style a form with custom input fields and validation states
+- [ ] Create a CSS-only dropdown menu
+- [ ] Design a progress bar with animations
+- [ ] Build a modal dialog with overlay
+- [ ] Create a tabbed interface using CSS only
+- [ ] Style a pricing table with different tiers
+- [ ] Build a responsive image gallery grid
+- [ ] Create CSS tooltips that appear on hover
+- [ ] Design a custom button with multiple states (hover, active, disabled)
+- [ ] Build a breadcrumb navigation component
+- [ ] Create a responsive sidebar layout
+- [ ] Style a timeline component
+- [ ] Build a CSS-only accordion
+- [ ] Create a loading spinner animation
+- [ ] Design a responsive footer with multiple columns
+- [ ] Build a tag/badge component system
+- [ ] Create a CSS-only hamburger menu animation
+- [ ] Style a data table with alternating row colors
+- [ ] Build a responsive card layout with flexbox
+- [ ] Create a CSS gradient background with text overlay
+- [ ] Design a custom checkbox and radio button styles
+- [ ] Build a responsive hero section
+- [ ] Create a CSS-only image carousel
+- [ ] Style a comment system layout
+- [ ] Build a responsive dashboard layout
+- [ ] Create a CSS-only star rating system
+- [ ] Design a notification/alert component
+- [ ] Build a responsive portfolio grid
+- [ ] Create CSS animations for page transitions
+- [ ] Style a login/signup form
+- [ ] Build a responsive blog post layout
+- [ ] Create a CSS-only image lightbox
+- [ ] Design a custom select dropdown
+- [ ] Build a responsive testimonial slider
+- [ ] Create a CSS-only toggle switch
+- [ ] Style a search bar with autocomplete styling
+- [ ] Build a responsive team member cards
+- [ ] Create a CSS-only collapsible FAQ section
+- [ ] Design a custom file upload button
+- [ ] Build a responsive magazine layout
+- [ ] Create CSS hover effects for images
+- [ ] Style a responsive navigation with sub-menus
+- [ ] Build a CSS-only image zoom effect
+- [ ] Create a responsive contact form layout
+- [ ] Design a custom pagination component
+- [ ] Build a CSS-only parallax scrolling effect
+- [ ] Create a responsive video player interface
+- [ ] Style a complete landing page layout
+
+### MEDIUM Tasks
+
+- [ ] Build a CSS Grid layout system from scratch
+- [ ] Create a responsive dashboard with CSS Grid and Flexbox
+- [ ] Build an animated navigation menu with complex transitions
+- [ ] Create a CSS-only image slider with touch gestures
+- [ ] Design a complex form with multi-step wizard layout
+- [ ] Build a responsive masonry layout
+- [ ] Create CSS animations with keyframes and transforms
+- [ ] Design a dark/light theme toggle system
+- [ ] Build a responsive calendar layout
+- [ ] Create a CSS-only sticky header with scroll effects
+- [ ] Design a complex card layout with 3D transforms
+- [ ] Build a responsive data visualization layout
+- [ ] Create CSS custom properties (variables) system
+- [ ] Design a complex dropdown with nested menus
+- [ ] Build a responsive e-commerce product grid
+- [ ] Create CSS-only modal with backdrop blur
+- [ ] Design a complex timeline with branching paths
+- [ ] Build a responsive magazine-style layout
+- [ ] Create CSS animations with performance optimization
+- [ ] Design a complex pricing table with feature comparison
+- [ ] Build a responsive admin panel layout
+- [ ] Create CSS-only tabs with dynamic content height
+- [ ] Design a complex hero section with video background
+- [ ] Build a responsive portfolio with filtering
+- [ ] Create CSS custom scrollbars and scroll animations
+- [ ] Design a complex footer with multiple sections
+- [ ] Build a responsive blog layout with sidebar
+- [ ] Create CSS-only tooltip system with positioning
+- [ ] Design a complex form validation with CSS
+- [ ] Build a responsive image gallery with lightbox
+- [ ] Create CSS Grid layout with dynamic content
+- [ ] Design a complex navigation with mega menu
+- [ ] Build a responsive dashboard with widgets
+- [ ] Create CSS animations for page loading states
+- [ ] Design a complex card system with filters
+- [ ] Build a responsive chat interface layout
+- [ ] Create CSS-only carousel with indicators
+- [ ] Design a complex pricing calculator layout
+- [ ] Build a responsive landing page with sections
+- [ ] Create CSS transforms and 3D effects
+- [ ] Design a complex table with sorting indicators
+- [ ] Build a responsive event calendar
+- [ ] Create CSS-only progress tracking system
+- [ ] Design a complex search interface
+- [ ] Build a responsive product showcase
+- [ ] Create CSS animations with scroll triggers
+- [ ] Design a complex user profile layout
+- [ ] Build a responsive documentation layout
+- [ ] Create CSS-only interactive charts
+- [ ] Design a complete responsive website theme
+
+### HARD Tasks
+
+- [ ] Build a complete CSS framework from scratch
+- [ ] Create a complex animation library with CSS
+- [ ] Design a responsive CSS Grid system with 12-column layout
+- [ ] Build a CSS-only game (Tic-tac-toe or Memory game)
+- [ ] Create a complex CSS architecture with BEM methodology
+- [ ] Design a CSS-only data visualization dashboard
+- [ ] Build a responsive CSS theme system with variables
+- [ ] Create complex CSS animations with performance monitoring
+- [ ] Design a CSS-only interactive presentation slides
+- [ ] Build a complete responsive email template system
+- [ ] Create a CSS-only virtual keyboard
+- [ ] Design a complex CSS layout with print styles
+- [ ] Build a CSS-only interactive timeline
+- [ ] Create a responsive CSS component library
+- [ ] Design a CSS-only complex form builder
+- [ ] Build a CSS-only interactive map interface
+- [ ] Create complex CSS shapes and illustrations
+- [ ] Design a CSS-only calculator interface
+- [ ] Build a responsive CSS dashboard with charts
+- [ ] Create a CSS-only complex navigation system
+- [ ] Design a CSS-only interactive portfolio
+- [ ] Build a complete CSS utility framework
+- [ ] Create CSS-only complex loading animations
+- [ ] Design a CSS-only interactive resume
+- [ ] Build a responsive CSS layout with container queries
+- [ ] Create a CSS-only complex carousel system
+- [ ] Design a CSS-only interactive pricing calculator
+- [ ] Build a CSS-only complex search interface
+- [ ] Create a responsive CSS grid with dynamic layouts
+- [ ] Design a CSS-only interactive timeline
+- [ ] Build a CSS-only complex modal system
+- [ ] Create a CSS-only interactive chart library
+- [ ] Design a complete CSS theming system
+- [ ] Build a CSS-only complex form validation
+- [ ] Create a responsive CSS layout with advanced grid
+- [ ] Design a CSS-only interactive gallery
+- [ ] Build a CSS-only complex animation framework
+- [ ] Create a CSS-only interactive dashboard
+- [ ] Design a complete responsive web application UI
+- [ ] Build a CSS-only complex component system
+- [ ] Create a CSS-only interactive presentation
+- [ ] Design a CSS-only complex data table
+- [ ] Build a CSS-only responsive design system
+- [ ] Create a CSS-only interactive user interface
+- [ ] Design a complete CSS architecture pattern
+- [ ] Build a CSS-only complex layout system
+- [ ] Create a CSS-only interactive web experience
+- [ ] Design a complete CSS framework documentation
+- [ ] Build a CSS-only complex responsive website
+- [ ] Create a CSS-only advanced animation system
+
+## Vanilla JavaScript
+
+### EASY Tasks
+
+- [ ] Create a simple calculator with basic operations
+- [ ] Build a to-do list with add/remove functionality
+- [ ] Create a digital clock with real-time updates
+- [ ] Build a random quote generator
+- [ ] Create a simple image slider/carousel
+- [ ] Build a character counter for text input
+- [ ] Create a simple color picker tool
+- [ ] Build a basic form validation system
+- [ ] Create a countdown timer
+- [ ] Build a simple password generator
+- [ ] Create a tip calculator
+- [ ] Build a basic shopping cart
+- [ ] Create a simple modal dialog system
+- [ ] Build a tab switching interface
+- [ ] Create a basic search filter for lists
+- [ ] Build a simple accordion component
+- [ ] Create a random number generator
+- [ ] Build a basic slideshow with navigation
+- [ ] Create a simple dropdown menu
+- [ ] Build a basic pagination system
+- [ ] Create a simple weather app (mock data)
+- [ ] Build a basic quiz application
+- [ ] Create a simple BMI calculator
+- [ ] Build a basic stopwatch
+- [ ] Create a simple unit converter
+- [ ] Build a basic image gallery
+- [ ] Create a simple drag and drop interface
+- [ ] Build a basic form stepper
+- [ ] Create a simple progress bar
+- [ ] Build a basic notification system
+- [ ] Create a simple dice roller
+- [ ] Build a basic calendar display
+- [ ] Create a simple expense tracker
+- [ ] Build a basic memory game
+- [ ] Create a simple age calculator
+- [ ] Build a basic URL shortener interface
+- [ ] Create a simple word counter
+- [ ] Build a basic temperature converter
+- [ ] Create a simple guess the number game
+- [ ] Build a basic rock paper scissors game
+- [ ] Create a simple loan calculator
+- [ ] Build a basic text highlighting tool
+- [ ] Create a simple color scheme generator
+- [ ] Build a basic habit tracker
+- [ ] Create a simple pomodoro timer
+- [ ] Build a basic drawing canvas
+- [ ] Create a simple morse code translator
+- [ ] Build a basic QR code generator interface
+- [ ] Create a simple palindrome checker
+- [ ] Build a basic bookmark manager
+
+### MEDIUM Tasks
+
+- [ ] Build a complete task management app with local storage
+- [ ] Create a weather app using fetch API
+- [ ] Build a movie search app with external API
+- [ ] Create a expense tracker with charts
+- [ ] Build a memory card game with animations
+- [ ] Create a music player interface
+- [ ] Build a chat application interface
+- [ ] Create a kanban board with drag and drop
+- [ ] Build a photo gallery with filtering
+- [ ] Create a calculator with scientific functions
+- [ ] Build a drawing application with canvas
+- [ ] Create a text editor with formatting
+- [ ] Build a snake game
+- [ ] Create a currency converter with live rates
+- [ ] Build a recipe finder application
+- [ ] Create a password strength meter
+- [ ] Build a infinite scroll implementation
+- [ ] Create a autocomplete search feature
+- [ ] Build a virtual keyboard
+- [ ] Create a data table with sorting
+- [ ] Build a image cropping tool
+- [ ] Create a markdown to HTML converter
+- [ ] Build a URL validation system
+- [ ] Create a multi-step form wizard
+- [ ] Build a debounced search implementation
+- [ ] Create a localStorage management system
+- [ ] Build a responsive image lazy loading
+- [ ] Create a custom select dropdown
+- [ ] Build a date picker component
+- [ ] Create a file upload with progress
+- [ ] Build a shopping cart with persistence
+- [ ] Create a theme switcher system
+- [ ] Build a custom scrollbar implementation
+- [ ] Create a tooltip system
+- [ ] Build a modal management system
+- [ ] Create a keyboard shortcut handler
+- [ ] Build a drag and drop file uploader
+- [ ] Create a custom context menu
+- [ ] Build a notification queue system
+- [ ] Create a form validation library
+- [ ] Build a custom carousel component
+- [ ] Create a data visualization with D3.js basics
+- [ ] Build a custom checkbox/radio components
+- [ ] Create a search highlighting system
+- [ ] Build a custom date/time picker
+- [ ] Create a responsive navigation menu
+- [ ] Build a custom progress indicator
+- [ ] Create a virtual scrolling implementation
+- [ ] Build a custom slider component
+- [ ] Create a localStorage cache system
+
+### HARD Tasks
+
+- [ ] Build a complete MVC framework from scratch
+- [ ] Create a virtual DOM implementation
+- [ ] Build a state management library (Redux-like)
+- [ ] Create a routing system for SPA
+- [ ] Build a custom templating engine
+- [ ] Create a WebSocket chat application
+- [ ] Build a real-time collaborative editor
+- [ ] Create a JavaScript game engine
+- [ ] Build a CSS-in-JS library
+- [ ] Create a custom build tool/bundler
+- [ ] Build a Progressive Web App framework
+- [ ] Create a custom testing framework
+- [ ] Build a real-time data visualization dashboard
+- [ ] Create a WebRTC video chat application
+- [ ] Build a custom ORM for IndexedDB
+- [ ] Create a service worker implementation
+- [ ] Build a custom animation library
+- [ ] Create a JavaScript compiler/transpiler
+- [ ] Build a real-time multiplayer game
+- [ ] Create a custom module system
+- [ ] Build a JavaScript profiling tool
+- [ ] Create a custom reactive system
+- [ ] Build a WebGL 3D graphics engine
+- [ ] Create a custom event system
+- [ ] Build a JavaScript AST parser
+- [ ] Create a custom promise implementation
+- [ ] Build a real-time notification system
+- [ ] Create a custom HTTP client library
+- [ ] Build a JavaScript code formatter
+- [ ] Create a custom dependency injection system
+- [ ] Build a real-time analytics dashboard
+- [ ] Create a custom observable implementation
+- [ ] Build a JavaScript minifier
+- [ ] Create a custom router with history API
+- [ ] Build a real-time collaborative whiteboard
+- [ ] Create a custom web worker implementation
+- [ ] Build a JavaScript debugger tool
+- [ ] Create a custom polyfill library
+- [ ] Build a real-time stock trading interface
+- [ ] Create a custom error handling system
+- [ ] Build a JavaScript performance monitor
+- [ ] Create a custom caching system
+- [ ] Build a real-time dashboard with WebSockets
+- [ ] Create a custom JavaScript engine features
+- [ ] Build a complete front-end framework
+- [ ] Create a custom bundler with tree shaking
+- [ ] Build a real-time collaborative IDE
+- [ ] Create a custom JavaScript optimizer
+- [ ] Build a complete web application architecture
+- [ ] Create a custom JavaScript runtime environment
+
+## React
+
+### EASY Tasks
+
+- [ ] Create a simple counter component with useState
+- [ ] Build a todo list with add/remove functionality
+- [ ] Create a basic user profile card component
+- [ ] Build a simple weather display component
+- [ ] Create a basic form with controlled inputs
+- [ ] Build a simple product card component
+- [ ] Create a basic navigation menu component
+- [ ] Build a simple modal dialog component
+- [ ] Create a basic search input with filtering
+- [ ] Build a simple button component library
+- [ ] Create a basic accordion component
+- [ ] Build a simple tab component
+- [ ] Create a basic pagination component
+- [ ] Build a simple breadcrumb component
+- [ ] Create a basic alert/notification component
+- [ ] Build a simple loading spinner component
+- [ ] Create a basic toggle switch component
+- [ ] Build a simple progress bar component
+- [ ] Create a basic dropdown component
+- [ ] Build a simple card layout component
+- [ ] Create a basic form validation component
+- [ ] Build a simple image gallery component
+- [ ] Create a basic tooltip component
+- [ ] Build a simple calendar component
+- [ ] Create a basic timer/stopwatch component
+- [ ] Build a simple rating component
+- [ ] Create a basic comment component
+- [ ] Build a simple search results component
+- [ ] Create a basic sidebar component
+- [ ] Build a simple footer component
+- [ ] Create a basic header component
+- [ ] Build a simple badge component
+- [ ] Create a basic table component
+- [ ] Build a simple list component
+- [ ] Create a basic avatar component
+- [ ] Build a simple input group component
+- [ ] Create a basic checkbox component
+- [ ] Build a simple radio button component
+- [ ] Create a basic textarea component
+- [ ] Build a simple select component
+- [ ] Create a basic file upload component
+- [ ] Build a simple date picker component
+- [ ] Create a basic color picker component
+- [ ] Build a simple slider component
+- [ ] Create a basic stepper component
+- [ ] Build a simple chip/tag component
+- [ ] Create a basic divider component
+- [ ] Build a simple skeleton loader component
+- [ ] Create a basic responsive grid component
+- [ ] Build a simple error boundary component
+
+### MEDIUM Tasks
+
+- [ ] Build a complete todo app with React hooks
+- [ ] Create a weather app with API integration
+- [ ] Build a movie search app with external API
+- [ ] Create a shopping cart with context API
+- [ ] Build a blog application with routing
+- [ ] Create a photo gallery with infinite scroll
+- [ ] Build a chat interface with real-time updates
+- [ ] Create a form builder with dynamic fields
+- [ ] Build a dashboard with multiple widgets
+- [ ] Create a kanban board with drag and drop
+- [ ] Build a calendar application with events
+- [ ] Create a expense tracker with charts
+- [ ] Build a music player with playlist
+- [ ] Create a recipe app with search and filters
+- [ ] Build a contact management system
+- [ ] Create a note-taking app with categories
+- [ ] Build a habit tracker application
+- [ ] Create a time tracking application
+- [ ] Build a inventory management system
+- [ ] Create a booking system interface
+- [ ] Build a quiz application with scoring
+- [ ] Create a polling application
+- [ ] Build a file manager interface
+- [ ] Create a social media feed
+- [ ] Build a e-commerce product catalog
+- [ ] Create a real estate listing app
+- [ ] Build a job board application
+- [ ] Create a learning management system
+- [ ] Build a project management tool
+- [ ] Create a customer relationship manager
+- [ ] Build a analytics dashboard
+- [ ] Create a content management system
+- [ ] Build a forum application
+- [ ] Create a event management system
+- [ ] Build a travel booking interface
+- [ ] Create a restaurant menu system
+- [ ] Build a fitness tracking app
+- [ ] Create a budget planning app
+- [ ] Build a library management system
+- [ ] Create a appointment booking system
+- [ ] Build a survey application
+- [ ] Create a feedback collection system
+- [ ] Build a notification center
+- [ ] Create a user management system
+- [ ] Build a reporting dashboard
+- [ ] Create a data visualization app
+- [ ] Build a workflow management tool
+- [ ] Create a document editor
+- [ ] Build a collaboration platform
+- [ ] Create a monitoring dashboard
+
+### HARD Tasks
+
+- [ ] Build a complete social media platform
+- [ ] Create a real-time collaborative editor
+- [ ] Build a video streaming platform interface
+- [ ] Create a comprehensive e-commerce platform
+- [ ] Build a project management suite
+- [ ] Create a real-time chat application with rooms
+- [ ] Build a learning management system
+- [ ] Create a content management system
+- [ ] Build a customer relationship management system
+- [ ] Create a enterprise dashboard with role-based access
+- [ ] Build a video conferencing application
+- [ ] Create a real-time collaboration tool
+- [ ] Build a comprehensive analytics platform
+- [ ] Create a multi-tenant SaaS application
+- [ ] Build a real-time trading platform
+- [ ] Create a healthcare management system
+- [ ] Build a logistics management platform
+- [ ] Create a human resources management system
+- [ ] Build a financial planning application
+- [ ] Create a inventory management system
+- [ ] Build a customer support platform
+- [ ] Create a marketing automation tool
+- [ ] Build a business intelligence dashboard
+- [ ] Create a workflow automation platform
+- [ ] Build a document management system
+- [ ] Create a appointment scheduling system
+- [ ] Build a event management platform
+- [ ] Create a survey and feedback platform
+- [ ] Build a learning and development platform
+- [ ] Create a performance management system
+- [ ] Build a compliance management tool
+- [ ] Create a risk management platform
+- [ ] Build a asset management system
+- [ ] Create a quality management system
+- [ ] Build a supply chain management tool
+- [ ] Create a vendor management system
+- [ ] Build a contract management platform
+- [ ] Create a knowledge management system
+- [ ] Build a training management system
+- [ ] Create a certification management platform
+- [ ] Build a audit management system
+- [ ] Create a incident management tool
+- [ ] Build a change management platform
+- [ ] Create a configuration management system
+- [ ] Build a service management platform
+- [ ] Create a integration management tool
+- [ ] Build a data management platform
+- [ ] Create a security management system
+- [ ] Build a identity management platform
+- [ ] Create a complete enterprise application
+
+## DSA with Python
+
+### EASY Tasks
+
+- [x] Implement linear search algorithm
+- [x] Implement binary search algorithm
+- [x] Find maximum element in an array
+- [ ] Reverse an array in-place
+- [ ] Check if array is sorted
+- [ ] Find missing number in array (1 to n)
+- [ ] Two sum problem (find pair with given sum)
+- [ ] Remove duplicates from sorted array
+- [ ] Merge two sorted arrays
+- [ ] Find intersection of two arrays
+- [ ] Implement stack using list
+- [ ] Implement queue using list
+- [ ] Check balanced parentheses using stack
+- [ ] Implement basic linked list operations
+- [ ] Find middle element of linked list
+- [ ] Reverse a linked list iteratively
+- [ ] Detect cycle in linked list (Floyd's algorithm)
+- [ ] Remove duplicates from linked list
+- [ ] Merge two sorted linked lists
+- [ ] Find length of linked list
+- [ ] Implement binary tree node and basic operations
+- [ ] Tree traversal: inorder, preorder, postorder
+- [ ] Find height/depth of binary tree
+- [ ] Count nodes in binary tree
+- [ ] Find maximum element in binary tree
+- [ ] Check if binary tree is balanced
+- [ ] Level order traversal of binary tree
+- [ ] Sum of all nodes in binary tree
+- [ ] Find minimum element in binary tree
+- [ ] Check if two trees are identical
+- [ ] Implement basic hash table operations
+- [ ] First non-repeating character in string
+- [ ] Count frequency of characters
+- [ ] Check if string is palindrome
+- [ ] Valid anagram check
+- [ ] Longest common prefix
+- [ ] Simple string matching
+- [ ] Remove vowels from string
+- [ ] Capitalize first letter of each word
+- [ ] Count words in string
+- [ ] Basic mathematical operations implementation
+- [ ] Check if number is prime
+- [ ] Find GCD of two numbers
+- [ ] Fibonacci sequence generation
+- [ ] Factorial calculation
+- [ ] Power calculation (iterative)
+- [ ] Check if number is perfect square
+- [ ] Sum of digits in number
+- [ ] Reverse digits of number
+- [ ] Check if number is Armstrong number
+
+### MEDIUM Tasks
+
+- [ ] Implement merge sort algorithm
+- [ ] Implement quick sort algorithm
+- [ ] Find kth largest element in array
+- [ ] Maximum subarray sum (Kadane's algorithm)
+- [ ] Rotate array by k positions
+- [ ] Find majority element in array
+- [ ] Container with most water problem
+- [ ] 3Sum problem (find triplets with zero sum)
+- [ ] Trapping rainwater problem
+- [ ] Sliding window maximum
+- [ ] Implement deque (double-ended queue)
+- [ ] Evaluate expression using stack
+- [ ] Next greater element using stack
+- [ ] Implement stack with getMin() operation
+- [ ] Design circular queue
+- [ ] LRU Cache implementation
+- [ ] Clone a linked list with random pointers
+- [ ] Add two numbers represented as linked lists
+- [ ] Find intersection point of two linked lists
+- [ ] Reverse linked list in groups of k
+- [ ] Flatten a multilevel linked list
+- [ ] Sort linked list using merge sort
+- [ ] Remove nth node from end of linked list
+- [ ] Palindrome linked list check
+- [ ] Rotate linked list by k positions
+- [ ] Validate binary search tree
+- [ ] Lowest common ancestor in BST
+- [ ] Convert sorted array to BST
+- [ ] Binary tree zigzag traversal
+- [ ] Serialize and deserialize binary tree
+- [ ] Maximum path sum in binary tree
+- [ ] Binary tree right side view
+- [ ] Count complete tree nodes
+- [ ] Symmetric tree check
+- [ ] Construct binary tree from traversals
+- [ ] Implement trie (prefix tree)
+- [ ] Word search in 2D grid
+- [ ] Longest increasing subsequence
+- [ ] Coin change problem (dynamic programming)
+- [ ] House robber problem
+- [ ] Climbing stairs problem
+- [ ] Edit distance problem
+- [ ] Longest common subsequence
+- [ ] 0/1 Knapsack problem
+- [ ] Unique paths in grid
+- [ ] Maximum product subarray
+- [ ] Word break problem
+- [ ] Palindrome partitioning
+- [ ] Generate parentheses combinations
+- [ ] Letter combinations of phone number
+- [ ] Subsets generation
+- [ ] Permutations generation
+
+### HARD Tasks
+
+- [ ] Implement heap sort algorithm
+- [ ] Find median from data stream
+- [ ] Sliding window median
+- [ ] Merge k sorted arrays
+- [ ] Largest rectangle in histogram
+- [ ] Maximal rectangle in binary matrix
+- [ ] Implement LFU Cache
+- [ ] Design Twitter timeline system
+- [ ] Implement autocomplete system
+- [ ] Range sum query with updates
+- [ ] Serialize and deserialize N-ary tree
+- [ ] Alien dictionary problem
+- [ ] Word ladder problem
+- [ ] Clone graph with DFS/BFS
+- [ ] Course schedule (topological sort)
+- [ ] Strongly connected components
+- [ ] Dijkstra's shortest path algorithm
+- [ ] Bellman-Ford algorithm
+- [ ] Floyd-Warshall algorithm
+- [ ] Kruskal's minimum spanning tree
+- [ ] Prim's minimum spanning tree
+- [ ] Union-Find data structure
+- [ ] Segment tree implementation
+- [ ] Binary indexed tree (Fenwick tree)
+- [ ] Suffix array construction
+- [ ] KMP string matching algorithm
+- [ ] Rabin-Karp string matching
+- [ ] Z-algorithm for pattern matching
+- [ ] Longest palindromic substring (Manacher's)
+- [ ] Edit distance with operations
+- [ ] Regular expression matching
+- [ ] Wildcard pattern matching
+- [ ] Interleaving string problem
+- [ ] Palindrome partitioning II
+- [ ] Word break II
+- [ ] Longest increasing path in matrix
+- [ ] Burst balloons problem
+- [ ] Russian doll envelopes
+- [ ] Super egg dropping problem
+- [ ] Minimum window substring
+- [ ] Substring with concatenation of words
+- [ ] Maximum frequency stack
+- [ ] Basic calculator with parentheses
+- [ ] Expression add operators
+- [ ] N-Queens problem
+- [ ] Sudoku solver
+- [ ] Word search II (trie + backtracking)
+- [ ] Remove invalid parentheses
+- [ ] Palindrome pairs
+- [ ] Count of smaller numbers after self
+- [ ] Reverse pairs problem
+- [ ] Maximum XOR of two numbers
+
+## Backend with Flask
+
+### EASY Tasks
+
+- [x] Create a simple "Hello World" Flask application
+- [x] Build a basic route that returns JSON response
+- [x] Create routes with URL parameters
+- [x] Build a simple form handling endpoint
+- [x] Create a basic GET and POST API endpoints
+- [x] Build a simple template rendering with Jinja2
+- [x] Create a basic file upload endpoint
+- [ ] Build a simple cookie handling system
+- [ ] Create a basic session management
+- [ ] Build a simple login/logout system
+- [ ] Create a basic user registration endpoint
+- [ ] Build a simple password validation
+- [ ] Create a basic email sending functionality
+- [ ] Build a simple logging system
+- [ ] Create basic error handling
+- [ ] Build a simple configuration management
+- [ ] Create a basic middleware implementation
+- [ ] Build a simple request validation
+- [ ] Create a basic response formatting
+- [ ] Build a simple URL redirection
+- [ ] Create a basic health check endpoint
+- [ ] Build a simple static file serving
+- [ ] Create a basic environment variable handling
+- [ ] Build a simple command line interface
+- [ ] Create a basic testing setup
+- [ ] Build a simple database connection
+- [ ] Create a basic CRUD operations
+- [ ] Build a simple user model
+- [ ] Create a basic authentication decorator
+- [ ] Build a simple pagination system
+- [ ] Create a basic search functionality
+- [ ] Build a simple filtering system
+- [ ] Create a basic sorting functionality
+- [ ] Build a simple validation system
+- [ ] Create a basic serialization
+- [ ] Build a simple caching mechanism
+- [ ] Create a basic rate limiting
+- [ ] Build a simple CORS handling
+- [ ] Create a basic API versioning
+- [ ] Build a simple documentation
+- [ ] Create a basic deployment script
+- [ ] Build a simple monitoring endpoint
+- [ ] Create a basic backup system
+- [ ] Build a simple migration system
+- [ ] Create a basic seed data system
+- [ ] Build a simple task scheduling
+- [ ] Create a basic notification system
+- [ ] Build a simple file management
+- [ ] Create a basic image processing
+- [ ] Build a simple email templates
+
+### MEDIUM Tasks
+
+- [ ] Build a complete REST API with authentication
+- [ ] Create a blog application with user management
+- [ ] Build an e-commerce API with product catalog
+- [ ] Create a task management API with teams
+- [ ] Build a social media API with posts and comments
+- [ ] Create a file sharing system with permissions
+- [ ] Build a real-time chat API with WebSockets
+- [ ] Create a booking system API
+- [ ] Build a inventory management system
+- [ ] Create a customer relationship management API
+- [ ] Build a project management API
+- [ ] Create a learning management system API
+- [ ] Build a event management system
+- [ ] Create a survey and polling API
+- [ ] Build a content management system API
+- [ ] Create a job board API
+- [ ] Build a real estate listing API
+- [ ] Create a recipe sharing API
+- [ ] Build a fitness tracking API
+- [ ] Create a expense tracking API
+- [ ] Build a library management system API
+- [ ] Create a appointment scheduling API
+- [ ] Build a forum API with moderation
+- [ ] Create a news aggregation API
+- [ ] Build a weather data API
+- [ ] Create a location-based service API
+- [ ] Build a payment processing integration
+- [ ] Create a notification service API
+- [ ] Build a analytics and reporting API
+- [ ] Create a document management API
+- [ ] Build a workflow management API
+- [ ] Create a audit logging system
+- [ ] Build a backup and restore system
+- [ ] Create a data migration system
+- [ ] Build a search engine API
+- [ ] Create a recommendation system API
+- [ ] Build a image processing service
+- [ ] Create a video processing service
+- [ ] Build a email marketing API
+- [ ] Create a SMS notification service
+- [ ] Build a calendar integration API
+- [ ] Create a social authentication system
+- [ ] Build a OAuth2 server implementation
+- [ ] Create a JWT token management system
+- [ ] Build a role-based access control system
+- [ ] Create a multi-tenant application
+- [ ] Build a API gateway service
+- [ ] Create a microservices communication
+- [ ] Build a message queue integration
+- [ ] Create a caching strategy implementation
+
+### HARD Tasks
+
+- [ ] Build a complete microservices architecture
+- [ ] Create a distributed system with service discovery
+- [ ] Build a high-performance API with caching layers
+- [ ] Create a real-time analytics platform
+- [ ] Build a scalable chat system with message queues
+- [ ] Create a video streaming service backend
+- [ ] Build a financial trading platform API
+- [ ] Create a IoT data processing pipeline
+- [ ] Build a machine learning model serving API
+- [ ] Create a blockchain integration service
+- [ ] Build a cryptocurrency trading platform
+- [ ] Create a real-time collaboration platform
+- [ ] Build a content delivery network service
+- [ ] Create a distributed file storage system
+- [ ] Build a log aggregation and analysis system
+- [ ] Create a monitoring and alerting system
+- [ ] Build a CI/CD pipeline service
+- [ ] Create a container orchestration service
+- [ ] Build a database sharding system
+- [ ] Create a data warehouse API
+- [ ] Build a ETL pipeline service
+- [ ] Create a stream processing system
+- [ ] Build a graph database API
+- [ ] Create a time-series database service
+- [ ] Build a geospatial data service
+- [ ] Create a recommendation engine service
+- [ ] Build a fraud detection system
+- [ ] Create a risk assessment API
+- [ ] Build a compliance monitoring system
+- [ ] Create a security scanning service
+- [ ] Build a threat detection system
+- [ ] Create a vulnerability management API
+- [ ] Build a identity and access management system
+- [ ] Create a single sign-on service
+- [ ] Build a privilege escalation prevention system
+- [ ] Create a data encryption service
+- [ ] Build a key management system
+- [ ] Create a secure communication protocol
+- [ ] Build a privacy-preserving analytics system
+- [ ] Create a data anonymization service
+- [ ] Build a distributed consensus system
+- [ ] Create a event sourcing implementation
+- [ ] Build a CQRS pattern implementation
+- [ ] Create a saga pattern implementation
+- [ ] Build a circuit breaker implementation
+- [ ] Create a bulkhead pattern implementation
+- [ ] Build a rate limiting service
+- [ ] Create a load balancing service
+- [ ] Build a auto-scaling system
+- [ ] Create a disaster recovery system
+
+## Backend with Django
+
+### EASY Tasks
+
+- [ ] Create a simple Django project with basic views
+- [ ] Build a basic model with Django ORM
+- [ ] Create simple CRUD operations with Django admin
+- [ ] Build a basic user authentication system
+- [ ] Create a simple blog application
+- [ ] Build basic form handling with Django forms
+- [ ] Create a simple contact form
+- [ ] Build a basic user profile system
+- [ ] Create simple URL routing and views
+- [ ] Build a basic template system with inheritance
+- [ ] Create a simple static file serving
+- [ ] Build basic middleware implementation
+- [ ] Create a simple session management
+- [ ] Build basic cookie handling
+- [ ] Create a simple email sending system
+- [ ] Build basic file upload functionality
+- [ ] Create a simple pagination system
+- [ ] Build basic search functionality
+- [ ] Create a simple filtering system
+- [ ] Build basic sorting functionality
+- [ ] Create a simple validation system
+- [ ] Build basic error handling
+- [ ] Create a simple logging system
+- [ ] Build basic testing with Django test framework
+- [ ] Create a simple command management
+- [ ] Build basic database migrations
+- [ ] Create a simple REST API with Django REST framework
+- [ ] Build basic serializers for models
+- [ ] Create simple API authentication
+- [ ] Build basic permissions system
+- [ ] Create a simple image upload and display
+- [ ] Build basic user registration
+- [ ] Create simple password reset functionality
+- [ ] Build basic email verification
+- [ ] Create a simple commenting system
+- [ ] Build basic tagging system
+- [ ] Create simple category management
+- [ ] Build basic user roles
+- [ ] Create simple notifications
+- [ ] Build basic dashboard views
+- [ ] Create simple reporting system
+- [ ] Build basic data export functionality
+- [ ] Create simple backup system
+- [ ] Build basic configuration management
+- [ ] Create simple deployment setup
+
+### MEDIUM Tasks
+
+- [ ] Build a complete blog application with comments
+- [ ] Create an e-commerce platform with product management
+- [ ] Build a social media application with user interactions
+- [ ] Create a project management system with tasks
+- [ ] Build a learning management system with courses
+- [ ] Create a real estate listing platform
+- [ ] Build a job board with application tracking
+- [ ] Create a event management system with bookings
+- [ ] Build a customer relationship management system
+- [ ] Create a inventory management system
+- [ ] Build a booking and reservation system
+- [ ] Create a forum with moderation features
+- [ ] Build a content management system
+- [ ] Create a survey and polling application
+- [ ] Build a recipe sharing platform
+- [ ] Create a fitness tracking application
+- [ ] Build a expense tracking system
+- [ ] Create a library management system
+- [ ] Build a appointment scheduling system
+- [ ] Create a document management system
+- [ ] Build a workflow management system
+- [ ] Create a analytics dashboard
+- [ ] Build a notification center
+- [ ] Create a chat application with rooms
+- [ ] Build a file sharing system
+- [ ] Create a calendar application with events
+- [ ] Build a task management system with teams
+- [ ] Create a customer support ticketing system
+- [ ] Build a knowledge base system
+- [ ] Create a multi-tenant application
+- [ ] Build a API with advanced authentication
+- [ ] Create a caching strategy with Redis
+- [ ] Build a search system with Elasticsearch
+- [ ] Create a message queue integration with Celery
+- [ ] Build a real-time features with Django Channels
+- [ ] Create a custom user model and authentication
+- [ ] Build a role-based permission system
+- [ ] Create a audit logging system
+- [ ] Build a data import/export system
+- [ ] Create a advanced filtering and search
+- [ ] Build a recommendation system
+- [ ] Create a payment integration system
+- [ ] Build a subscription management system
+- [ ] Create a email marketing system
+- [ ] Build a analytics and reporting system
+- [ ] Create a backup and restore system
+- [ ] Build a monitoring and logging system
+- [ ] Create a deployment automation
+- [ ] Build a performance optimization system
+- [ ] Create a security hardening implementation
+
+### HARD Tasks
+
+- [ ] Build a complete enterprise resource planning system
+- [ ] Create a distributed microservices architecture with Django
+- [ ] Build a real-time collaboration platform
+- [ ] Create a scalable social media platform
+- [ ] Build a comprehensive e-commerce marketplace
+- [ ] Create a learning management system with video streaming
+- [ ] Build a healthcare management system
+- [ ] Create a financial management platform
+- [ ] Build a supply chain management system
+- [ ] Create a human resources management system
+- [ ] Build a customer relationship management platform
+- [ ] Create a business intelligence dashboard
+- [ ] Build a project portfolio management system
+- [ ] Create a digital asset management system
+- [ ] Build a content delivery network service
+- [ ] Create a video streaming platform
+- [ ] Build a real-time trading platform
+- [ ] Create a IoT data processing system
+- [ ] Build a machine learning model serving platform
+- [ ] Create a blockchain integration system
+- [ ] Build a cryptocurrency exchange platform
+- [ ] Create a fraud detection system
+- [ ] Build a risk assessment platform
+- [ ] Create a compliance management system
+- [ ] Build a security monitoring system
+- [ ] Create a identity and access management system
+- [ ] Build a data warehouse and ETL system
+- [ ] Create a stream processing platform
+- [ ] Build a distributed caching system
+- [ ] Create a message broker system
+- [ ] Build a service mesh implementation
+- [ ] Create a container orchestration platform
+- [ ] Build a CI/CD pipeline system
+- [ ] Create a monitoring and alerting platform
+- [ ] Build a log aggregation system
+- [ ] Create a distributed tracing system
+- [ ] Build a performance monitoring system
+- [ ] Create a auto-scaling system
+- [ ] Build a disaster recovery system
+- [ ] Create a multi-region deployment system
+- [ ] Build a data replication system
+- [ ] Create a backup and archival system
+- [ ] Build a search and analytics platform
+- [ ] Create a recommendation engine
+- [ ] Build a personalization system
+- [ ] Create a A/B testing platform
+- [ ] Build a feature flag system
+- [ ] Create a configuration management system
+- [ ] Build a secret management system
+- [ ] Create a comprehensive security framework
+
+## Backend with FastAPI
+
+### EASY Tasks
+
+- [ ] Create a simple "Hello World" FastAPI application
+- [ ] Build basic GET and POST endpoints
+- [ ] Create endpoints with path parameters
+- [ ] Build endpoints with query parameters
+- [ ] Create a simple request body handling
+- [ ] Build basic response models with Pydantic
+- [ ] Create simple data validation
+- [ ] Build basic error handling
+- [ ] Create a simple file upload endpoint
+- [ ] Build basic authentication with API keys
+- [ ] Create simple JWT token authentication
+- [ ] Build basic CORS middleware
+- [ ] Create a simple database connection
+- [ ] Build basic CRUD operations
+- [ ] Create simple user registration
+- [ ] Build basic login functionality
+- [ ] Create simple password hashing
+- [ ] Build basic user model
+- [ ] Create simple dependency injection
+- [ ] Build basic request validation
+- [ ] Create simple response formatting
+- [ ] Build basic pagination
+- [ ] Create simple filtering
+- [ ] Build simple sorting
+- [ ] Create basic search functionality
+- [ ] Build simple email sending
+- [ ] Create basic logging setup
+- [ ] Build simple configuration management
+- [ ] Create basic environment variables
+- [ ] Build simple testing setup
+- [ ] Create basic documentation with OpenAPI
+- [ ] Build simple middleware implementation
+- [ ] Create basic rate limiting
+- [ ] Build simple caching
+- [ ] Create basic session management
+- [ ] Build simple cookie handling
+- [ ] Create basic static file serving
+- [ ] Build simple health check endpoint
+- [ ] Create basic metrics endpoint
+- [ ] Build simple background tasks
+- [ ] Create basic WebSocket support
+- [ ] Build simple async operations
+- [ ] Create basic database migrations
+- [ ] Build simple seed data
+- [ ] Create basic backup functionality
+- [ ] Build simple deployment setup
+- [ ] Create basic monitoring
+- [ ] Build simple alerting
+- [ ] Create basic security headers
+- [ ] Build simple input sanitization
+
+### MEDIUM Tasks
+
+- [ ] Build a complete REST API with authentication and authorization
+- [ ] Create a blog API with user management and posts
+- [ ] Build an e-commerce API with product catalog and orders
+- [ ] Create a task management API with teams and projects
+- [ ] Build a social media API with posts, comments, and likes
+- [ ] Create a file sharing API with permissions and folders
+- [ ] Build a real-time chat API with WebSocket support
+- [ ] Create a booking system API with availability management
+- [ ] Build a inventory management API with stock tracking
+- [ ] Create a customer relationship management API
+- [ ] Build a project management API with milestones
+- [ ] Create a learning management system API with courses
+- [ ] Build a event management API with ticketing
+- [ ] Create a survey and polling API with analytics
+- [ ] Build a content management API with versioning
+- [ ] Create a job board API with application tracking
+- [ ] Build a real estate API with property listings
+- [ ] Create a recipe sharing API with ratings
+- [ ] Build a fitness tracking API with workout plans
+- [ ] Create a expense tracking API with categories
+- [ ] Build a library management API with borrowing system
+- [ ] Create a appointment scheduling API with calendar integration
+- [ ] Build a forum API with moderation and threading
+- [ ] Create a news aggregation API with RSS feeds
+- [ ] Build a weather data API with forecasting
+- [ ] Create a location-based service API with geospatial queries
+- [ ] Build a payment processing API with multiple gateways
+- [ ] Create a notification service API with multiple channels
+- [ ] Build a analytics API with data visualization
+- [ ] Create a document management API with version control
+- [ ] Build a workflow management API with approval processes
+- [ ] Create a audit logging API with compliance reporting
+- [ ] Build a backup and restore API with scheduling
+- [ ] Create a data migration API with validation
+- [ ] Build a search engine API with full-text search
+- [ ] Create a recommendation API with machine learning
+- [ ] Build a image processing API with multiple formats
+- [ ] Create a video processing API with transcoding
+- [ ] Build a email marketing API with campaign management
+- [ ] Create a SMS service API with delivery tracking
+- [ ] Build a calendar integration API with multiple providers
+- [ ] Create a social authentication API with OAuth providers
+- [ ] Build a OAuth2 server with scope management
+- [ ] Create a JWT management API with refresh tokens
+- [ ] Build a role-based access control API
+- [ ] Create a multi-tenant API with data isolation
+- [ ] Build a API gateway with request/response transformation
+- [ ] Create a microservices communication API
+- [ ] Build a message queue integration API
+- [ ] Create a comprehensive caching strategy API
+
+### HARD Tasks
+
+- [ ] Build a complete microservices ecosystem with FastAPI
+- [ ] Create a distributed system with service mesh integration
+- [ ] Build a high-performance API with advanced caching strategies
+- [ ] Create a real-time analytics platform with stream processing
+- [ ] Build a scalable chat system with horizontal scaling
+- [ ] Create a video streaming service with adaptive bitrate
+- [ ] Build a financial trading platform with real-time data
+- [ ] Create a IoT data ingestion pipeline with edge computing
+- [ ] Build a machine learning model serving platform
+- [ ] Create a blockchain integration service with smart contracts
+- [ ] Build a cryptocurrency trading platform with order matching
+- [ ] Create a real-time collaboration platform with operational transforms
+- [ ] Build a content delivery network with edge caching
+- [ ] Create a distributed file storage system with replication
+- [ ] Build a log aggregation platform with real-time analysis
+- [ ] Create a monitoring and alerting system with anomaly detection
+- [ ] Build a CI/CD platform with pipeline orchestration
+- [ ] Create a container orchestration service with auto-scaling
+- [ ] Build a database sharding system with automatic rebalancing
+- [ ] Create a data warehouse API with real-time ETL
+- [ ] Build a stream processing platform with complex event processing
+- [ ] Create a graph database API with traversal optimization
+- [ ] Build a time-series database service with compression
+- [ ] Create a geospatial data service with spatial indexing
+- [ ] Build a recommendation engine with deep learning
+- [ ] Create a fraud detection system with real-time scoring
+- [ ] Build a risk assessment platform with Monte Carlo simulation
+- [ ] Create a compliance monitoring system with automated reporting
+- [ ] Build a security scanning service with vulnerability assessment
+- [ ] Create a threat detection system with behavioral analysis
+- [ ] Build a vulnerability management platform with patch tracking
+- [ ] Create a identity and access management system with federation
+- [ ] Build a single sign-on service with multiple protocols
+- [ ] Create a privilege escalation prevention system
+- [ ] Build a data encryption service with key rotation
+- [ ] Create a key management system with hardware security modules
+- [ ] Build a secure communication protocol with end-to-end encryption
+- [ ] Create a privacy-preserving analytics system with differential privacy
+- [ ] Build a data anonymization service with utility preservation
+- [ ] Create a distributed consensus system with Byzantine fault tolerance
+- [ ] Build a event sourcing implementation with CQRS
+- [ ] Create a saga pattern implementation with compensation
+- [ ] Build a circuit breaker implementation with bulkhead isolation
+- [ ] Create a rate limiting service with distributed coordination
+- [ ] Build a load balancing service with health checking
+- [ ] Create a auto-scaling system with predictive scaling
+- [ ] Build a disaster recovery system with automated failover
+- [ ] Create a multi-region deployment system with data synchronization
+- [ ] Build a comprehensive observability platform
+- [ ] Create a performance optimization system with automated tuning
